@@ -1,0 +1,4 @@
+pytest
+request
+pytest-html
+pytest-xdist
